@@ -57,7 +57,7 @@
 \defaultfontfeatures{Mapping=tex-text}
 \setmainfont[Mapping=tex-text, Color=textcolor]{Helvetica Neue Light}
 
-%\setmathfont{XITS Math}
+%\setmathfont{XITS Math} % Had to comment this part out since the font cannot be found
 
 %%%%%%%%%%
 % Header %
